@@ -1,4 +1,4 @@
-# PIR_for_ASL_SU2C
+# PIR_for_sBuck
 
 This repository is part of the paper:
 
